@@ -13,7 +13,7 @@ Tenemos como principales propósito:
 4. Fomentar la unión y la auto organización de nuevas comunidades.
 5. Incentivar la colaboración y el trabajo en equipo.
 
-Quienes conformamos esta comunidad no estamos facultados en modo alguno, ni individualmente ni actuando en nombre de la comunidad para solicitar remuneración económica o de cualquier otra índole por impartir conocimientos y/o instruir sobre **Javascript**o **AngularJS** utilizando el nombre de **ngVenezuela** cómo organización o actuando en nombre de la misma.
+Quienes conformamos esta comunidad no estamos facultados en modo alguno, ni individualmente ni actuando en nombre de la comunidad para solicitar remuneración económica o de cualquier otra índole por impartir conocimientos y/o instruir sobre **Javascript** o **AngularJS** utilizando el nombre de **ngVenezuela** cómo organización o actuando en nombre de la misma.
 
 **Segunda Revisión: 23/06/2015 por Ernesto L. Chapon R.**
 Adaptación para comunidad ngVenezuela: Andrés Villanueva - 26/06/2015.
