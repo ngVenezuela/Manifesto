@@ -16,3 +16,4 @@ Tenemos como principales propósito:
 Quienes conformamos esta comunidad no estamos facultados en modo alguno, ni individualmente ni actuando en nombre de la comunidad para solicitar remuneración económica o de cualquier otra índole por impartir conocimientos y/o instruir sobre **Javascript** o **Angular** utilizando el nombre de **ngVenezuela** cómo organización o actuando en nombre de la misma.
 
 ***Segunda Revisión: 23/06/2015 por Ernesto L. Chapon R.***
+***Tercera Revisión: 31/03/2016 por Andrés Villanueva***
